@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+    animation-name: Animation;
+    animation-duration: 4s;
+    
+}
+@keyframes Animation {
+    from {background-color: blue}
+    to {background-color: red};
+    
+}
